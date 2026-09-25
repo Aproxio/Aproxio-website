@@ -1,0 +1,57 @@
+[
+  {
+    "id": "role-1",
+    "unit": "Aproxio Core",
+    "department": "engineering",
+    "departmentLabel": "Engineering",
+    "type": "Full-Time",
+    "title": "Lead Systems Architect",
+    "location": "Gurugram, HQ",
+    "experience": "8+ Years",
+    "description": "Architect high-throughput distributed routing engines and predictive demand systems processing tens of millions of concurrent events."
+  },
+  {
+    "id": "role-2",
+    "unit": "Aproxio Fleet",
+    "department": "product",
+    "departmentLabel": "Product & Design",
+    "type": "Full-Time",
+    "title": "Staff Product Designer",
+    "location": "Bengaluru",
+    "experience": "5+ Years",
+    "description": "Craft zero-latency mobile checkout and high-density inventory browsing interfaces for millions of daily shoppers."
+  },
+  {
+    "id": "role-3",
+    "unit": "Aproxio CleanGrid",
+    "department": "operations",
+    "departmentLabel": "Operations & Supply Chain",
+    "type": "Full-Time",
+    "title": "VP of Logistics Infrastructure",
+    "location": "New Delhi",
+    "experience": "10+ Years",
+    "description": "Scale cold-chain warehouse automation, route optimization algorithms, and quality verification pipelines across tier-1 cities."
+  },
+  {
+    "id": "role-4",
+    "unit": "Aproxio Horizon",
+    "department": "engineering",
+    "departmentLabel": "Engineering",
+    "type": "Full-Time",
+    "title": "Principal Data Scientist - Demand Forecasting",
+    "location": "Remote / Hybrid",
+    "experience": "6+ Years",
+    "description": "Develop algorithmic models predicting venue attendance, peak dispatch spikes, and dynamic pricing across entertainment venues."
+  },
+  {
+    "id": "role-5",
+    "unit": "Aproxio Corporate",
+    "department": "growth",
+    "departmentLabel": "Growth & Finance",
+    "type": "Full-Time",
+    "title": "Senior Manager, Strategic Finance & IR",
+    "location": "Gurugram, HQ",
+    "experience": "4+ Years",
+    "description": "Drive quarterly disclosures, capital allocation models, M&A evaluations, and direct shareholder engagement."
+  }
+]

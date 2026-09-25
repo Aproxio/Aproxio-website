@@ -1,0 +1,52 @@
+[
+  {
+    "id": "fleet",
+    "title": "aproxio fleet",
+    "subtitle": "autonomous delivery matrix",
+    "status": "Coming Soon",
+    "tagline": "Next-Gen Autonomous Delivery Corridors",
+    "description": "Engineering low-altitude autonomous aerial systems and sidewalk robotic rovers for zero-emission, sub-15-minute last-mile delivery.",
+    "color": "#7293F3",
+    "link": "#fleet"
+  },
+  {
+    "id": "core",
+    "title": "aproxio core",
+    "subtitle": "neural supply intelligence",
+    "status": "Coming Soon",
+    "tagline": "Hyper-Predictive AI Logistics Engine",
+    "description": "Deep reinforcement learning models predicting neighborhood-level demand with sub-second accuracy across micro-fulfillment centers.",
+    "color": "#10B981",
+    "link": "#core"
+  },
+  {
+    "id": "cleangrid",
+    "title": "aproxio cleangrid",
+    "subtitle": "decarbonized infrastructure",
+    "status": "Coming Soon",
+    "tagline": "Renewable Swappable Battery Microgrids",
+    "description": "Distributed rapid battery-swap hubs powered 100% by solar microgrids, accelerating fleet transition to net-zero urban mobility.",
+    "color": "#F59E0B",
+    "link": "#cleangrid"
+  },
+  {
+    "id": "horizon",
+    "title": "aproxio horizon",
+    "subtitle": "omnichannel commerce protocol",
+    "status": "Coming Soon",
+    "tagline": "Sovereign Retail Operating System",
+    "description": "Headless commerce architecture uniting physical store inventories with high-velocity on-demand local dispatch networks.",
+    "color": "#8B5CF6",
+    "link": "#horizon"
+  },
+  {
+    "id": "vault",
+    "title": "aproxio vault",
+    "subtitle": "automated micro-warehousing",
+    "status": "Coming Soon",
+    "tagline": "Vertical High-Density Robotic Storage",
+    "description": "High-efficiency vertical robotic picking systems maximizing inner-city square footage to fulfill inventory in under 60 seconds.",
+    "color": "#EC4899",
+    "link": "#vault"
+  }
+]
